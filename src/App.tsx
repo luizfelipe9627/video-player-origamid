@@ -1,5 +1,5 @@
 import React from "react";
-import videoSrc from "/video.mp4";
+import videoSrc from "./assets/video.mp4";
 
 const App = () => {
   const video = React.useRef<HTMLVideoElement>(null); // Está referenciando o elemento video, dizendo que ele é do tipo HTMLVideoElement e que ele começa com o valor null.
