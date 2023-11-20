@@ -120,8 +120,8 @@ img {
 }
 
 .flex {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
   gap: 1rem;
 }
 
@@ -134,5 +134,17 @@ img {
 @media (max-width: 600px) {
   .container {
     max-width: 90vw;
+  }
+
+  .flex {
+    grid-template-columns: 1fr;
+  }
+
+  button {
+    margin: 0;
+  }
+
+  button:first-child {
+    margin-top: 1rem;
   }
 }

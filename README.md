@@ -12,7 +12,7 @@ Video player com um vídeo padrão, tendo como funcionalidades: iniciar/pausar, 
 
 ## 📑 Observação
 
-Esse foi um dos exercícios propostos no curso de React com TypeScript da Origamid, onde o objetivo era criar um reprodutor de vídeo com as funcionalidades citadas acima.
+Esse foi um dos exercícios feitos no curso de React com TypeScript da Origamid, onde o objetivo era criar um reprodutor de vídeo com as funcionalidades citadas acima.
 
 ### <a href="https://www.origamid.com/curso/react-com-typescript">Acesse o curso</a>
 
