@@ -1,17 +1,15 @@
-# Video Player
+# Video Player Origamid
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 <img src="https://github.com/luizfelipe9627/video-player-origamid/blob/main/src/assets/apresentacao.gif" alt="Apresentação">
 
 ## 📄 Descrição
-
 Video player com um vídeo padrão, tendo como funcionalidades: iniciar/pausar, avançar 2s, aumentar velocidade do vídeo(1X ou 2X), ativar/desativar picture in picture, mutar e desmutar.
 
 ### <a href="https://luizfelipe9627-video-player-origamid.netlify.app">Acesse o projeto</a>
 
 ## 📑 Observação
-
 Esse foi um dos exercícios feitos no curso de React com TypeScript da Origamid, onde o objetivo era criar um reprodutor de vídeo com as funcionalidades citadas acima.
 
 ### <a href="https://www.origamid.com/curso/react-com-typescript">Acesse o curso</a>
